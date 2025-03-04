@@ -21,9 +21,6 @@ const Navbar = () => {
               <a href="#how-it-works" className="border-transparent text-gray-500 hover:border-indigo-500 hover:text-indigo-600 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
                 How It Works
               </a>
-              <a href="#pricing" className="border-transparent text-gray-500 hover:border-indigo-500 hover:text-indigo-600 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
-                Pricing
-              </a>
               <div className="relative group">
                 <button className="border-transparent text-gray-500 hover:border-indigo-500 hover:text-indigo-600 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
                   Resources
@@ -75,12 +72,6 @@ const Navbar = () => {
               className="block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 hover:bg-gray-50 hover:border-indigo-500 hover:text-indigo-700"
             >
               How It Works
-            </a>
-            <a
-              href="#pricing"
-              className="block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 hover:bg-gray-50 hover:border-indigo-500 hover:text-indigo-700"
-            >
-              Pricing
             </a>
             <a
               href="#"
